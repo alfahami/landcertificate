@@ -1,4 +1,5 @@
 # Quick intro
+📖 This project is documented in detail on [Codelogium](https://codelogium.github.io/projects/blockchain/landcertificate/), covering the architecture, client/admin workflow, QR code generation, and key learnings.
 
 **landCertificate** is a Hyperledger blockchain admin/client land certficate requester application built on top of Hyperledger where clients request a land certificate to a land conserver(admin) who will deliver the certificate. Online [mongoDB-atlas](https://www.mongodb.com/products/platform/atlas-database) is used to store clients' resquests, which are displayed in the admin panel.
 
